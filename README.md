@@ -19,7 +19,7 @@
 
 ## travellist
 
-A Fiori application.
+A Fiori Travel List application by Aref Abed jooy.
 
 ### Starting the generated app
 
